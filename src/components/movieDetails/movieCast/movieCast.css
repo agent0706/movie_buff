@@ -1,0 +1,21 @@
+.horizontal_divider {
+    width: 100%;
+    border-top: 1px solid #F2F1F8;
+}
+
+.movie_cast_section {
+    padding-top: 50px;
+}
+
+.movie_cast_title {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 25px;
+}
+
+
+.movie_cast_list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

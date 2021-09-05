@@ -1,0 +1,9 @@
+.center_content {
+    margin: auto;
+}
+
+.movie_list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}

@@ -1,0 +1,9 @@
+{
+    "discoverMovies": "/discover/movie",
+    "searchMovies": "/search/movie",
+    "movieDetails": "/movie/{movieId}",
+    "movieCredits": "/movie/{movieId}/credits",
+    "movieKeywords": "/movie/{movieId}/keywords",
+    "movieRecommendations": "/movie/{movieId}/recommendations"
+}
+
